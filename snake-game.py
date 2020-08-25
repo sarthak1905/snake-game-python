@@ -1,3 +1,5 @@
+#Made by /sarthak1905(GitHub)
+#If you find any bugs with the following, feel free to report an issue or contact me!
 import pygame
 import random
 import math
