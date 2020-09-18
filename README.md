@@ -20,3 +20,6 @@
  and knowledge of data structures in python programming.
  * Fundamental game development concepts such as infite loops, event handling loops, display updation, game over screen, replay options, calculation of score and many more are
  realized with the help of this project 
+ 
+ ## Future update
+ A future update may contain a classic and an arcade mode. However, that is not in the near future!
